@@ -5,4 +5,4 @@
 - 🌱 Learning Kubernetes & advanced Terraform
 - 👯 Open to collaboration on cloud projects
 ## 🔥 Most Used Languages  
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaneshSuryaManimohan&theme=tokyonight&utcOffset=5.5)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshSuryaManimohan&theme=tokyonight)
