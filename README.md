@@ -5,4 +5,4 @@
 - 🌱 Learning Kubernetes & advanced Terraform
 - 👯 Open to collaboration on cloud projects
 ## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GaneshSuryaManimohan&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshSuryaManimohan&theme=tokyonight)
